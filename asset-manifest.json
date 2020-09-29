@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/SeleccionDeDiscos/static/js/main.a684dc88.chunk.js",
+    "main.js.map": "/SeleccionDeDiscos/static/js/main.a684dc88.chunk.js.map",
+    "runtime-main.js": "/SeleccionDeDiscos/static/js/runtime-main.eab225f9.js",
+    "runtime-main.js.map": "/SeleccionDeDiscos/static/js/runtime-main.eab225f9.js.map",
+    "static/js/2.63b95a2f.chunk.js": "/SeleccionDeDiscos/static/js/2.63b95a2f.chunk.js",
+    "static/js/2.63b95a2f.chunk.js.map": "/SeleccionDeDiscos/static/js/2.63b95a2f.chunk.js.map",
+    "index.html": "/SeleccionDeDiscos/index.html",
+    "precache-manifest.aff71a93adb2432d43b13ad9979a58b9.js": "/SeleccionDeDiscos/precache-manifest.aff71a93adb2432d43b13ad9979a58b9.js",
+    "service-worker.js": "/SeleccionDeDiscos/service-worker.js",
+    "static/js/2.63b95a2f.chunk.js.LICENSE.txt": "/SeleccionDeDiscos/static/js/2.63b95a2f.chunk.js.LICENSE.txt",
+    "static/media/cancha.jpeg": "/SeleccionDeDiscos/static/media/cancha.7c266a8b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eab225f9.js",
+    "static/js/2.63b95a2f.chunk.js",
+    "static/js/main.a684dc88.chunk.js"
+  ]
+}
